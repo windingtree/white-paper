@@ -1,2 +1,1 @@
-# white-paper
-Original Winding Tree White Paper
+Original Winding Tree White Paper, 2017
